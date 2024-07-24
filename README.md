@@ -7,7 +7,7 @@
 ## About me 
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/prabeshkunwar12/">
+  <a href="https://www.linkedin.com/in/prabesh-kunwar/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:prabeshkunwar12@gmail.com">
